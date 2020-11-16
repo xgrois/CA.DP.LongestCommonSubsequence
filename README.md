@@ -17,7 +17,7 @@ since they are generated from different paths.
 This basically means that "io" is different than "io" if those letters are placed in different locations in the
 original strings. E.g.:
 
-<img src="./example_draw.jpeg">
+<img src="./example_draw.png">
 
 <img src="./example_02.jpeg">
 
