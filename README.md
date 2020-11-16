@@ -12,13 +12,9 @@ In this first example, you can see how subsequences are generated based on the D
 <img src="./example_01.jpeg">
 
 In this second example, you can see how subsequences are generated based on the Dynamic Programming matrix.
-Note that in this case there are multiple duplicates. However, these duplicates are in fact different combinations
-since they are generated from different paths.
-This basically means that "io" is different than "io" if those letters are placed in different locations in the
-original strings. E.g.:
-
-<img src="./example_draw.png">
-
+Note that in this case there are multiple duplicates due to the different generating paths.
+This is not an issue to me since it reflects the different paths. In case you want to show only != subsequences
+just process the given output.
 <img src="./example_02.jpeg">
 
 In this last example we can understand the different algorithm's performance.
